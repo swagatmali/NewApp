@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewApp</string>
+    <string name="loading">Loading..\n</string>
+    <string name="error_title">Ooops,</string>
+    <string name="try_again">TRY AGAIN\n</string>
+    <string name="news">News</string>
+</resources>
